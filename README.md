@@ -11,4 +11,4 @@ It is a `.rar` file, in which you will need to extract BatOS from.
 # What is BatOS?
 BatOS is a Windows `batch` script Operating System, made by me! Batch scripts are used for automation, file editing and just playing around! I coded mine myself, with only a tiny bit of help from *GitHub Copilot*, *Microsoft Copilot*, and `Copy and Paste`
 ### Is BatOS malicious?
-No, I will *NEVER* include malware in *ANYTHING* I share, and for proof, you can extract BatOS from the `.rar`, then run a Windows Defender (or any antivirus) on a targeted scan on the folder you put BatOS in (e.g. Desktop, Downloads).
+No, I will *NEVER* include malware in *ANYTHING* I share, and for proof, you can extract BatOS from the `.rar`, then run a Windows Defender (or any antivirus) on a targeted scan on the folder you put BatOS in (e.g. Desktop, Downloads) before you run it.
