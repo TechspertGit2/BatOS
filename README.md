@@ -8,3 +8,5 @@ Yes, add them in the Issues section with an Issue title "Request" and I may add 
 Do not get it from the files, click the link to download BatOS!
 It is a .rar file, in which you will need to extract BatOS from.
 [Download BatOS](https://github.com/TechspertGit2/BatOS/raw/refs/heads/main/BatOS(extractme).rar)
+# What is BatOS?
+BatOS is a Windows `batch` script Operating System, made by me! Batch scripts are used for automation, file editing and just playing around! I coded mine myself, with only a tiny bit of help from *GitHub Copilot*, *Microsoft Copilot*, and `Copy and Paste`
