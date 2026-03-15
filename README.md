@@ -16,4 +16,4 @@ No, I will *NEVER* include malware in *ANYTHING* I share, and for proof, you can
 Yes, I did create one but never used it, so now, I am giving you a link to open it! Just click [here](https://github.com/TechspertGit2/BatOS/raw/refs/heads/main/BatOS-Installer(extractme).rar).
 The Installer is just extra work, so I reccomend downloading BatOS from the link in "Where do I get BatOS then?"
 ## What is BuySell and what does it do?
-It is a buying/selling system that is a little buggy, but a seperate batch file. I host that on a different site. to be precise!
+It is a buying/selling system that is a little buggy, but a seperate batch file. I host that on a different site. [Right here](techspertgit2.github.io/BuySell) to be precise!
